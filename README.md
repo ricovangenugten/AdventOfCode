@@ -1,3 +1,3 @@
 # AdventOfCode
 
-My solutions to the adventofcode.com programming challenges
+My solutions to the [Advent of Code](http://www.adventofcode.com) programming challenges
